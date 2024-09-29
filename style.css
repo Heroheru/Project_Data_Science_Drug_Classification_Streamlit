@@ -1,0 +1,52 @@
+.st-emotion-cache-1r4qj8v{
+    background-color: rgb(250, 250, 250);
+}
+#drug-classification-app{
+    color: #1A1396;
+}
+
+.st-emotion-cache-1rsyhoq p{
+    text-align: justify;
+}
+
+/* .st-an st-ao st-ap st-aq st-ak st-ar st-am st-as st-at st-au st-av st-aw st-ax st-ay st-az st-b0 st-b1 st-b2 st-b3 st-b4 st-b5 st-b6 st-b7 st-b8 st-b9 st-ba st-bb st-bc{
+    background-color: white;
+    color: red;
+} */
+
+
+.stTooltipIcon.st-emotion-cache-oj1fi.ewgb6652{
+    margin-top: 25px;
+    width:700px;
+    /* background-color: aquamarine; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.st-emotion-cache-1vt4y43.ef3psqc13{
+    width: 400px;
+    background-color: rgb(255, 225, 230);
+   
+}
+
+.st-emotion-cache-1vt4y43.ef3psqc13:hover{
+    background-color: red;
+    color: white;
+    border: black 0.5px;
+}
+
+.stMarkdown{
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.st-emotion-cache-1rsyhoq.e1nzilvr5 p{
+    font-size: large;
+
+}
+
+
